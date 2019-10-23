@@ -17,6 +17,9 @@ const environment = {
   pi: Math.PI,
   max(...args) {
     return Math.max(...args)
+  },
+  min(...args) {
+    return Math.min(...args)
   }
 };
 

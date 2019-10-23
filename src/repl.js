@@ -26,7 +26,7 @@ const repl = async () => {
 if (require.main === module) {
   console.log(
     chalk.red(
-      `Welcome to the ${chalk.bgYellow('(Still Searching for name)')} Programming Language`,
+      `Welcome to the ${chalk.bgYellow('(SINTAX)')} Programming Language`,
     ),
   );
   repl();
