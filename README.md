@@ -2,6 +2,10 @@
 
 Sintax is a programming language with JavaScript.
 
+<p>
+  <img src='./images/sintax.png' />
+</p>
+
 ## Project Overview
 
 This programming language built with JavaScript and it provides REPL (Read Evaluate Print Loop) interface to interact with users. The syntax of this programming language is simple and more similar to human language. It is easy to use and built to teach programming for newbies.
@@ -97,3 +101,7 @@ SINTAX uses parenthesis **`()`** in the beginning and at the end of the statemen
 
 >>> 1
 ```
+
+### Any Idea for improvement.
+
+Pull request are most welcome.
